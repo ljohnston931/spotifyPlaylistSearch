@@ -4647,7 +4647,8 @@
 2479 verbose linkBins fsevents@1.2.9
 2480 verbose linkMans fsevents@1.2.9
 2481 verbose rebuildBundles fsevents@1.2.9
-2482 verbose rebuildBundles [ 'abbrev',
+2482 verbose rebuildBundles [ '.bin',
+2482 verbose rebuildBundles   'abbrev',
 2482 verbose rebuildBundles   'ansi-regex',
 2482 verbose rebuildBundles   'aproba',
 2482 verbose rebuildBundles   'are-we-there-yet',
